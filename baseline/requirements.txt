@@ -1,2 +1,2 @@
-allennlp
+allennlp<1.0
 flask
